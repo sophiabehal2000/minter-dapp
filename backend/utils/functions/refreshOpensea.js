@@ -17,7 +17,7 @@ if (!START || !END) {
 }
 
 const COLLECTION_BASE_URL =
-  CHAIN.toLowerCase() === "goerli"
+  CHAIN.toLowerCase() === "polygon"
     ? `https://testnets.opensea.io/assets/goerli`
     : "https://opensea.io/assets/matic";
 
