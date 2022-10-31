@@ -1,0 +1,20 @@
+{
+  "name": "Anangelstouch #5",
+  "description": "This is a cool collection of 11 NFTs plus their real paintings get mailed to the minter. Please send your name and holder/minting wallet wallet to sophiabehal2000@gmail.com",
+  "image": "https://ipfs.io/ipfs/bafybeib722icsh3fypsl366a6ctn3d6oujnaoegpl6izm5dsvszs3quszm",
+  "attributes": [
+    {
+      "trait_type": "images",
+      "value": "1"
+    },
+    {
+      "trait_type": "seethrough",
+      "value": "empty"
+    }
+  ],
+  "dna": "fc8e7c883cd2b8e435d9d43c9611bf5e8458df8f",
+  "edition": 5,
+  "external_url": "https://sophiabehal.com",
+  "date": 1667187593315,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

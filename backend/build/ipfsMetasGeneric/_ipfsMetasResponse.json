@@ -1,0 +1,14 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreiftgiwngbstytzrqfkda4uxp27ocgw2lb6vibgdhmtq2nsfj362ti",
+  "name": "Angelstouch",
+  "description": "Which painting will you get? Reveal on 11/11/2022",
+  "file_url": "https://ipfs.io/ipfs/bafybeihdx3tsg4273rtpjfv4j7mwxwvo7bgwtkisilucjnqwvm3h27adtu",
+  "external_url": "https://sophiabehal.com",
+  "animation_url": null,
+  "custom_fields": {
+    "date": 1647039293429,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": null
+}
